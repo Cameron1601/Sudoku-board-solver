@@ -1,2 +1,3 @@
-# Sudoku-board-solver
-Used to solve Sudoku boards
+Sudoko solver
+
+Use this board to solve any sudoko boards you have.
